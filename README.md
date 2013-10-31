@@ -7,6 +7,8 @@ The reason for combining the `showdown.js` files available in these two location
 Let's be clear: I literally just compared these two files and combined the parts necessary for extensions from [Corey](https://github.com/coreyti)'s copy with the GFM one's code. It's rough and could probably be done even better by someone who spent more time with it. In any case, I've tested it, and it works. :metal:
 
 
+### *The rest of this Readme was written by [Corey](https://github.com/coreyti)*
+
 # Showdown [![build status](https://secure.travis-ci.org/coreyti/showdown.png)](http://travis-ci.org/coreyti/showdown)
 
 A JavaScript port of Markdown
