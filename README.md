@@ -2,7 +2,7 @@
 
 This is a rough mashup of the copy of Showdown hosted by [Corey](https://github.com/coreyti) and the copy of Showdown for [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) hosted here: [github-flavored-markdown](https://npmjs.org/package/github-flavored-markdown).
 
-The reason for combining the `showdown.js` files available in these two locations is that the version hosted by [Corey](https://github.com/coreyti) allows for the easy creation of extensions ( so that a developer may write his or her own custom markdown extensions ) with the the benefits of GitHub flavored markdown (GFM) (which [GitHub described nicely](https://help.github.com/articles/github-flavored-markdown)).
+The reason for combining the `showdown.js` files available in these two locations is that the version hosted by [Corey](https://github.com/coreyti) allows for the easy creation of extensions ( so that a developer may write his or her own custom markdown extensions ) while the other copy provides the benefits of GitHub flavored markdown (GFM) (which [GitHub described nicely](https://help.github.com/articles/github-flavored-markdown)).
 
 Let's be clear: I literally just compared these two files and combined the parts necessary for extensions from [Corey](https://github.com/coreyti)'s copy with the GFM one's code. It's rough and could probably be done even better by someone who spent more time with it. In any case, I've tested it, and it works. :metal:
 
